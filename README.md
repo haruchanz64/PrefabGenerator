@@ -26,16 +26,9 @@ A Unity Editor script for generating prefabs with customizable components.
 ## Changelog
 See CHANGELOG.MD for more information.
 
-## Customization
-
-- You can customize the script by modifying the `PrefabConfig` and `ComponentType` classes.
-- You can also add custom component types by creating new classes that inherit from `Component`.
-
 ## Requirements
 
 - Unity 2019.4 or later
-- .NET Framework 4.7.1 or later
-
 ## License
 
 This script is licensed under the MIT License. See `LICENSE` for details.
