@@ -43,4 +43,4 @@ Contributions are welcome! If you'd like to add new features or fix bugs, please
 
 ## Version
 
-1.0.0
+1.0.1
