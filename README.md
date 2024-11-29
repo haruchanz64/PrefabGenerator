@@ -23,6 +23,9 @@ A Unity Editor script for generating prefabs with customizable components.
 5. Click `Generate All Prefabs` to create the prefabs.
 6. Prefabs will be saved to the specified folder.
 
+## Changelog
+See CHANGELOG.MD for more information.
+
 ## Customization
 
 - You can customize the script by modifying the `PrefabConfig` and `ComponentType` classes.
