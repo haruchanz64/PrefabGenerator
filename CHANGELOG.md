@@ -1,5 +1,10 @@
 # Changelog
 
+## V1.0.2 - 30/11/2024
+### Fixes:
+- Fixed the issue wherein copied prefab components is not saved properly. [Issue #1](https://github.com/haruchanz64/PrefabGenerator/issues/1)
+- Fixed the issue wherein saving multiple prefabs only saves the first prefab on the list.
+
 ## V1.0.1 - 29/11/2024 (Quick Patch)
 
 ### Features:
