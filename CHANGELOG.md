@@ -1,5 +1,11 @@
 # Changelog
 
+## V1.0.3 - 1/12/2024
+## Fixes:
+- Added a feature to disable ``Duplicate Prefab`` on the first prefab created on the list. [Issue #4](https://github.com/haruchanz64/PrefabGenerator/issues/4)
+- Rename ``Copy Components From Last Prefab`` to ``Duplicate Prefab`` for better user experience. [Issue #3](https://github.com/haruchanz64/PrefabGenerator/issues/3)
+- Fixes the issue wherein scrollbar is missing entirely when multiple prefabs is created. [Issue #2](https://github.com/haruchanz64/PrefabGenerator/issues/2)
+
 ## V1.0.2 - 30/11/2024
 ### Fixes:
 - Fixed the issue wherein copied prefab components is not saved properly. [Issue #1](https://github.com/haruchanz64/PrefabGenerator/issues/1)
