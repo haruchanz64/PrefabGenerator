@@ -24,7 +24,7 @@ A Unity Editor script for generating prefabs with customizable components.
 6. Prefabs will be saved to the specified folder.
 
 ## Changelog
-See CHANGELOG.MD for more information.
+See ``CHANGELOG.MD`` for more information.
 
 ## Requirements
 
@@ -43,4 +43,4 @@ Contributions are welcome! If you'd like to add new features or fix bugs, please
 
 ## Version
 
-1.0.3
+1.0.4
