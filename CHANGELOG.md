@@ -10,7 +10,7 @@
 - Added `Empty` on Prefab Type.
 - Renamed ``Components to Add`` to ``Components`` for better user-experience.
 ### Fixes:
-- Fixes the `InvalidOperationException: Collection was modified; enumeration operation may not execute` when removing prefab from the list.
+- Fixes the `InvalidOperationException` when removing prefab from the list.
 
 ## V1.0.3 - 1/12/2024
 ## Features:
