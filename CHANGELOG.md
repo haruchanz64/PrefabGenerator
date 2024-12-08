@@ -1,4 +1,7 @@
 # Changelog
+## V1.0.5 - 8/12/2024
+### Features:
+- Expanded the context menu to include my name.
 
 ## V1.0.4.1 - 2/12/2024
 ### Fixes:

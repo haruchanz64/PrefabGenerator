@@ -17,7 +17,7 @@ A Unity Editor script for generating prefabs with customizable components.
    - Select the downloaded `.unitypackage` file and click `Open`.
    - In the Import Package dialog, ensure all items are checked and click `Import`.
    
-2. Open the Unity Editor and go to `Tools` > `Prefab Generator` to open the Prefab Generator window.
+2. Open the Unity Editor and go to `Tools` > `Haru` > `Prefab Generator` to open the Prefab Generator window.
 3. Select the prefab type (2D, 3D or Empty) and add custom components as needed.
 4. Configure the component properties (e.g., sprite, mesh, material) as needed.
 5. Click `Generate All Prefabs` to create the prefabs.
@@ -43,4 +43,4 @@ Contributions are welcome! If you'd like to add new features or fix bugs, please
 
 ## Version
 
-1.0.4.1
+1.0.5
